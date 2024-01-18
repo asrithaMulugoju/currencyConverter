@@ -16,4 +16,4 @@ API
 
 Result
 
-Prints you the desired output in a format {amount}{fromCurr} is {anount}{toCurr}
+Prints you the desired output in a format {amount}{fromCurr} is {amount}{toCurr}
